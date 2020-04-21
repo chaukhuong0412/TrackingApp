@@ -3,7 +3,7 @@ const stopButton = $('#stopButton');
 const activityInput = $('#activityInput');
 const activityName = $('#activityName');
 const activities = [];
-
+const apiKey = "BLF-DM7KWGlyxWxRriQXQXtxlkVgtNb3h_9J7yMH5yb8_mt2UNYXVPpvSrtcAREMiCvNrSm_1M3Z0BP_Hzs8GFo";
 stopButton.hide();
 
 var h = 0;
